@@ -1,3 +1,11 @@
+elasticsearch	{
+			#protocol => 
+			index => 
+			document_type => 
+			document_id => 
+			hosts =>
+		}
+this is kevin's stuff
 enjoy this change to make life hard
 and another one
 ww
