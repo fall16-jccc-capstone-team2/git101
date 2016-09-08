@@ -1,0 +1,7 @@
+elasticsearch	{
+			#protocol => 
+			index => 
+			document_type => 
+			document_id => 
+			hosts =>
+		}
